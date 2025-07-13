@@ -31,6 +31,4 @@ async def classify_logs(file: UploadFile):
         raise HTTPException(status_code=500, detail=str(e))
     finally:
         file.file.close()
-        # # Clean up if the file was saved
-        # if os.path.exists("output.csv"):
-        #     os.remove("output.csv"
+       
