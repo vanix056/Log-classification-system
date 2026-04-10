@@ -39,7 +39,7 @@ The Log Classification System is a hybrid ML-powered pipeline that automatically
 
 ```bash
 # Clone the repository
-git clone https://github.com/vanix056/Log-classification-system.git
+git clone https://github.com/MAbdullahWaqar/Log-classification-system.git
 cd Log-classification-system
 
 # Create and activate a virtual environment
@@ -196,5 +196,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed and maintained by **vanix056**.  
-For questions or contributions, open an issue or pull request on [GitHub](https://github.com/vanix056/Log-classification-system).
+Developed and maintained by **Muhammad Abdullah Waqar**.  
+For questions or contributions, open an issue or pull request on [GitHub](https://github.com/MAbdullahWaqar/Log-classification-system).
